@@ -1,2 +1,2 @@
 #!/bin/bash
-apt-get update && apt-get install fzf
+sudo apt-get update && sudo apt-get install fzf
